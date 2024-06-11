@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @TwinStar
 - 👀 I’m interested in twins's love story...twincest is best!
 - 🌱 I’m currently learning C++/TS/React/...
-- 📫 How to reach me : twinkles.twinstar@outlook.com
+- 📫 How to reach me : ????
