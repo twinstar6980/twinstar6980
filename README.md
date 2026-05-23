@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**twinkles-twinstar/twinkles-twinstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**twinstar6980/twinstar6980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @TwinStar
-- 👀 I’m interested in twins's love story...twincest is best!
-- 🌱 I’m currently learning C++/TS/React/...
-- 📫 How to reach me : ????
+- 👋 Hi, I’m TwinStar
+- 👀 I'm interested in the bromance with benefits between identical twins... twincest is the best!
+- 🌱 I’m currently learning C++/TypeScript/Flutter/Android...
+  
